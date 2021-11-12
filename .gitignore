@@ -1,0 +1,4 @@
+env/
+*.рус
+db.sqlite3
+tmp
